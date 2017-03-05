@@ -1,1 +1,1 @@
-Segmentation of MRI images
+Segmentation of MRI images using Clustering techniques
